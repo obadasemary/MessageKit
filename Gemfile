@@ -22,5 +22,5 @@
 # SOFTWARE.		
 
 source 'https://rubygems.org'		
-gem 'danger', '~> 6.2'		
-gem 'danger-swiftlint', '~> 0.24'
+gem 'danger', '~> 7.0', '>= 7.0.0'
+gem 'danger-swiftlint', '~> 0.24', '>= 0.24.3'
